@@ -256,6 +256,18 @@ window.HUB = {
       type: "md",
       file: "aprendizaje/notas-ux.md",
       featured: true
+    },
+    {
+      id: "apr-prompt-supervisor-andamios",
+      title: "Prompt de Estudio: Supervisor General de Andamios",
+      category: "aprendizaje",
+      subcategory: "Referencias",
+      date: "2026-06-18",
+      tags: ["andamios", "minería", "seguridad", "OSHA", "entrevista", "scaffolding"],
+      description: "Prompt completo para preparar una entrevista como Supervisor General de Andamios en minería: conceptos técnicos, vocabulario OSHA/ISO, reglas críticas y preguntas modelo.",
+      type: "md",
+      file: "aprendizaje/prompt_estudio_supervisor_andamios.md",
+      featured: true
     }
   ]
 };
