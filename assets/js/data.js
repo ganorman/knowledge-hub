@@ -85,6 +85,18 @@ window.HUB = {
   /* ---------- DOCUMENTOS (contenido inicial de ejemplo) ---------- */
   DOCS: [
     {
+      id: "prompt-notebooklm-dominar-tema",
+      title: "Prompts NotebookLM — para dominar un tema completo",
+      category: "prompts",
+      subcategory: "Investigación",
+      date: "2026-06-17",
+      tags: ["notebooklm", "estudio", "investigación", "modelos-mentales", "feynman"],
+      description: "Set de prompts encadenados para NotebookLM: extrae modelos mentales, desacuerdos entre expertos, preguntas de comprensión profunda, informe ejecutivo, presentación de 10 slides y guion de podcast. Cambia el tema y funciona igual.",
+      type: "md",
+      file: "prompts/notebooklm-dominar-tema.md",
+      featured: true
+    },
+    {
       id: "prompt-10-bucles-ia",
       title: "10 bucles de IA para automatizar tu trabajo",
       category: "prompts",
