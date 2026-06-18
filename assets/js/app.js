@@ -6,6 +6,7 @@
   "use strict";
 
   const { CATEGORIES, DOCS } = window.HUB;
+  const SITE = window.HUB.SITE || { brand: "Knowledge Hub", owner: "", role: "" };
   const app = document.getElementById("app");
 
   /* Iconos por tipo de documento */
@@ -181,8 +182,8 @@
 
     app.innerHTML = `
       <div class="page-head">
-        <div class="page-eyebrow">Panel principal</div>
-        <h1 class="page-title">👋 Tu Hub de Conocimiento</h1>
+        <div class="page-eyebrow">${esc(SITE.role || "Panel principal")}</div>
+        <h1 class="page-title">👋 ${SITE.owner ? "Hola, " + esc(SITE.owner) : "Tu Hub de Conocimiento"}</h1>
         <p class="page-desc">Todo tu conocimiento personal en un solo lugar: prompts, ideas, biblioteca, proyectos, finanzas y aprendizaje.</p>
       </div>
 
@@ -363,8 +364,17 @@
   }
 
   /* ---------- Arranque ---------- */
+  function applySiteIdentity() {
+    const name = $("#brandName");
+    const role = $("#brandRole");
+    if (name) name.textContent = SITE.owner || SITE.brand || "Knowledge Hub";
+    if (role) role.textContent = SITE.role || "";
+    document.title = (SITE.owner ? SITE.owner + " · " : "") + (SITE.brand || "Knowledge Hub");
+  }
+
   function init() {
     initTheme();
+    applySiteIdentity();
     buildSidebar();
     initSearch();
     $("#themeToggle").addEventListener("click", toggleTheme);

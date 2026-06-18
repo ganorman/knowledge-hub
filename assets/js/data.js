@@ -22,6 +22,14 @@
 
 window.HUB = {
 
+  /* ---------- CONFIGURACIÓN DEL SITIO ----------
+     Edita aquí el nombre y el título que aparecen en la cabecera y el inicio. */
+  SITE: {
+    brand: "Knowledge Hub",     // nombre corto del logo (cabecera)
+    owner: "Gerardo A. Norman", // tu nombre (se muestra en la cabecera y el inicio)
+    role:  "Especialista en Formación Técnica" // tu título / subtítulo
+  },
+
   /* ---------- CATEGORÍAS ---------- */
   CATEGORIES: [
     {
@@ -76,6 +84,18 @@ window.HUB = {
 
   /* ---------- DOCUMENTOS (contenido inicial de ejemplo) ---------- */
   DOCS: [
+    {
+      id: "prompt-10-bucles-ia",
+      title: "10 bucles de IA para automatizar tu trabajo",
+      category: "prompts",
+      subcategory: "Automatización",
+      date: "2026-06-17",
+      tags: ["bucles", "automatización", "prompts", "productividad", "paco-vida"],
+      description: "10 prompts tipo «bucle» donde la IA se revisa a sí misma hasta no encontrar errores: extraer todo de un documento, validar datos contra reglas, revisar contra checklist y más. Copia, pega tu contenido y pon un freno de pasadas.",
+      type: "pdf",
+      file: "prompts/10-bucles-ia-automatizar.pdf",
+      featured: true
+    },
     {
       id: "prompt-claude-resumen",
       title: "Resumen ejecutivo de documentos",
