@@ -104,8 +104,8 @@ window.HUB = {
       date: "2026-06-17",
       tags: ["bucles", "automatización", "prompts", "productividad", "paco-vida"],
       description: "10 prompts tipo «bucle» donde la IA se revisa a sí misma hasta no encontrar errores: extraer todo de un documento, validar datos contra reglas, revisar contra checklist y más. Copia, pega tu contenido y pon un freno de pasadas.",
-      type: "pdf",
-      file: "prompts/10-bucles-ia-automatizar.pdf",
+      type: "md",
+      file: "prompts/10-bucles-ia-automatizar.md",
       featured: true
     },
     {
