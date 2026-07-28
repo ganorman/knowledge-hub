@@ -38,7 +38,7 @@ window.HUB = {
       icon: "🤖",
       color: "#4f6df5",
       description: "Plantillas y prompts reutilizables para modelos de IA.",
-      subcategories: ["ChatGPT", "Claude", "Gemini", "Automatización", "Análisis de documentos", "Investigación"]
+      subcategories: ["ChatGPT", "Claude", "Gemini", "Automatización", "Análisis de documentos", "Investigación", "Imágenes"]
     },
     {
       id: "ideas",
@@ -84,6 +84,18 @@ window.HUB = {
 
   /* ---------- DOCUMENTOS (contenido inicial de ejemplo) ---------- */
   DOCS: [
+    {
+      id: "prompt-infografia-explosion",
+      title: "Infografía de vista explosionada premium (cualquier objeto)",
+      category: "prompts",
+      subcategory: "Imágenes",
+      date: "2026-07-27",
+      tags: ["infografía", "vista-explosionada", "imagen", "render", "diseño-técnico"],
+      description: "Prompt para generar una infografía fotorrealista de vista explosionada de cualquier objeto: iluminación cinematográfica, etiquetas técnicas reales, panel de datos, secuencia de montaje y checklist de verificación anti-alucinaciones.",
+      type: "md",
+      file: "prompts/prompt infografia explosion.md",
+      featured: true
+    },
     {
       id: "prompt-notebooklm-dominar-tema",
       title: "Prompts NotebookLM — para dominar un tema completo",
