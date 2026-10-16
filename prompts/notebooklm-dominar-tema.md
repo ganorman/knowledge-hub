@@ -6,8 +6,9 @@
 > y pasar de "tener fuentes" a **dominar un tema**: modelos mentales, debates,
 > comprensión profunda, informe, presentación y podcast.
 >
-> El ejemplo usa **finanzas personales**, pero sustituye el tema y funciona igual.
+> Completa **[TEMA]**, **[AUDIENCIA]** y **[PAÍS O CONTEXTO]** antes de empezar.
 > Úsalos **en orden**: cada uno se apoya en el anterior.
+> No inventes fuentes, consensos ni desacuerdos para completar una cantidad pedida. Si faltan fuentes, dilo.
 
 ---
 
@@ -16,7 +17,7 @@
 ```
 Basándote en TODAS las fuentes de este notebook (libros, guías institucionales,
 charlas, podcasts y artículos), identifica los 5 modelos mentales fundamentales
-que comparten todos los expertos en finanzas personales.
+presentes en las fuentes sobre [TEMA]; no presupongas consenso universal.
 
 No quiero un resumen de cada fuente. Quiero los MARCOS DE PENSAMIENTO comunes
 que subyacen a todas ellas — los principios que un experto con 20 años de
@@ -26,7 +27,7 @@ Para cada modelo mental:
 1. Nómbralo con una frase clara
 2. Explica en qué consiste (2-3 frases)
 3. Cita al menos 2 fuentes de este notebook que lo respalden
-4. Da un ejemplo práctico de cómo cambia una decisión financiera real
+4. Da un ejemplo práctico de cómo cambia una decisión sobre el tema
 ```
 
 ---
@@ -34,7 +35,7 @@ Para cada modelo mental:
 ## 2. Desacuerdos entre expertos
 
 ```
-Ahora muéstrame los 3 puntos donde los expertos en "finanzas personales"
+Ahora muéstrame hasta 3 puntos donde los expertos en "[TEMA]"
 representados en estas fuentes están en DESACUERDO FUNDAMENTAL.
 
 Para cada desacuerdo:
@@ -42,7 +43,7 @@ Para cada desacuerdo:
 2. Presenta el argumento más fuerte de cada posición, citando fuentes
    específicas de este notebook
 3. Explica por qué este debate importa para alguien que está tomando
-   decisiones financieras reales
+   decisiones sobre el tema
 4. Indica si hay algún consenso emergente o si sigue abierto
 ```
 
@@ -52,7 +53,7 @@ Para cada desacuerdo:
 
 ```
 Genera 10 preguntas que expongan si alguien ENTIENDE PROFUNDAMENTE
-las finanzas personales o simplemente ha memorizado reglas y datos.
+[TEMA] o simplemente ha memorizado reglas y datos.
 
 Las preguntas deben:
 - Requerir razonamiento, no memoria
@@ -101,7 +102,7 @@ cada conexión.
 Basándote en toda nuestra conversación hasta ahora, y en las respuestas
 que he dado a las preguntas de comprensión:
 
-1. ¿Cuáles son mis 3 mayores vacíos de comprensión en finanzas personales?
+1. ¿Cuáles son mis 3 mayores vacíos de comprensión en [TEMA]?
 2. Para cada vacío, ¿qué fuentes ESPECÍFICAS de este notebook debería
    estudiar con más detenimiento?
 3. ¿Qué conceptos debería dominar ANTES de intentar cubrir cada vacío?
@@ -113,19 +114,19 @@ que he dado a las preguntas de comprensión:
 ## 7. Informe ejecutivo
 
 ```
-Genera un informe ejecutivo sobre finanzas personales basado en TODAS
+Genera un informe ejecutivo sobre [TEMA] basado en TODAS
 las fuentes de este notebook.
 
 Estructura:
 1. RESUMEN EJECUTIVO (máx. 200 palabras)
 2. LOS 5 MODELOS MENTALES CLAVE (1 párrafo cada uno, con citas)
-3. LOS 3 DEBATES ABIERTOS (posiciones enfrentadas con argumentos)
+3. DEBATES ABIERTOS RESPALDADOS (posiciones enfrentadas con argumentos)
 4. HOJA DE RUTA PRÁCTICA: 10 pasos ordenados para alguien que empieza
-   desde cero en España
+   desde cero en [PAÍS O CONTEXTO]
 5. FUENTES RECOMENDADAS POR NIVEL: principiante / intermedio / avanzado
 
 Tono: profesional pero accesible. Como si fuera un documento interno
-para un equipo de RRHH que quiere ofrecer formación financiera a empleados.
+para un equipo de RRHH que quiere ofrecer formación sobre el tema a empleados.
 ```
 
 ---
@@ -134,7 +135,7 @@ para un equipo de RRHH que quiere ofrecer formación financiera a empleados.
 
 ```
 Estructura una presentación de 10 diapositivas sobre "Fundamentos de
-Finanzas Personales para Profesionales" basada en las fuentes de este
+[TEMA] para Profesionales" basada en las fuentes de este
 notebook.
 
 Para cada diapositiva incluye:
@@ -146,7 +147,7 @@ Para cada diapositiva incluye:
 Orden sugerido: Problema → Contexto → 5 Modelos Mentales (1 slide
 cada uno) → Debates Clave → Plan de Acción → Recursos
 
-Adapta los ejemplos al contexto fiscal y financiero de España.
+Adapta los ejemplos a [PAÍS O CONTEXTO], solo cuando las fuentes lo respalden.
 ```
 
 ---
@@ -154,19 +155,11 @@ Adapta los ejemplos al contexto fiscal y financiero de España.
 ## 9. Podcast — instrucciones Audio Overview
 
 ```
-El oyente es un profesional español de 40 años con ingresos medios-altos
-que nunca ha invertido más allá de un depósito bancario. Tiene un fondo
-de emergencia pero no sabe por dónde empezar con la inversión.
-
-Enfócate en:
-- Los modelos mentales más relevantes para alguien que empieza a invertir
-- Los errores psicológicos más comunes (de la guía de Morgan Stanley
-  y el ensayo de Morgan Housel)
-- Opciones prácticas en el contexto español (fondos indexados,
-  fiscalidad de las inversiones según la CNMV)
-
-Tono: como dos amigos que saben del tema tomando un café. Accesible
-pero con profundidad. Nada de paternalismos.
+La audiencia es [AUDIENCIA], con conocimientos previos [NIVEL].
+Enfócate en los conceptos, errores y decisiones relevantes para [OBJETIVO].
+Utiliza únicamente fuentes presentes en este cuaderno; cita cuáles respaldan
+cada afirmación y señala desacuerdos o información insuficiente.
+Tono: accesible, preciso y sin paternalismos.
 ```
 
 ---
@@ -179,10 +172,10 @@ pero con profundidad. Nada de paternalismos.
 ```
 Para cada uno de los 5 modelos mentales fundamentales, dame 3 situaciones
 reales y cotidianas donde aplicar ese modelo cambiaría el resultado de
-una decisión financiera.
+una decisión práctica.
 
 Las situaciones deben ser:
-- Relevantes para un profesional español de 35-50 años
+- Relevantes para [AUDIENCIA]
 - Con números y contexto concretos (no genéricos)
 - Que incluyan el razonamiento paso a paso de cómo el modelo mental
   guía la decisión
@@ -193,7 +186,7 @@ Las situaciones deben ser:
 ```
 Voy a intentar explicarte el concepto de [MODELO MENTAL X] como si
 se lo estuviera contando a un compañero de trabajo que no sabe nada
-de finanzas.
+del tema.
 
 Mi explicación:
 [ESCRIBIR TU EXPLICACIÓN AQUÍ]
@@ -211,4 +204,4 @@ Ahora evalúa mi explicación:
 1. Carga tus fuentes en un cuaderno de NotebookLM.
 2. Ejecuta los prompts **del 1 al 9 en orden** (cada uno usa el resultado del anterior).
 3. Usa los **Extras** para practicar y consolidar.
-4. Cambia "finanzas personales" por **cualquier tema** que quieras dominar.
+4. Cambia "[TEMA]" por **cualquier tema** que quieras dominar.

@@ -1,5 +1,8 @@
 # Curso: JavaScript moderno
 
+> Ejemplo del catálogo inicial, pendiente de confirmar. No acredita una meta, un progreso o un proyecto personal vigente.
+
+
 > Categoría: Aprendizaje · Cursos · #javascript #frontend #curso
 
 ## Progreso

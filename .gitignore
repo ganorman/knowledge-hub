@@ -1,0 +1,5 @@
+.local-audit/
+.claude/
+node_modules/
+__pycache__/
+*.log

@@ -1,5 +1,8 @@
 # Metas financieras 2026
 
+> Ejemplo del catálogo inicial, pendiente de confirmar. No acredita una meta, un progreso o un proyecto personal vigente.
+
+
 > Categoría: Finanzas · Metas · #metas #ahorro #2026
 
 ## Objetivos del año

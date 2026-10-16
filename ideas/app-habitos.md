@@ -1,5 +1,8 @@
 # App de seguimiento de hábitos minimalista
 
+> Ejemplo del catálogo inicial, pendiente de confirmar. No acredita una meta, un progreso o un proyecto personal vigente.
+
+
 > Categoría: Ideas · Aplicaciones · #app #hábitos #minimalismo
 
 ## Concepto

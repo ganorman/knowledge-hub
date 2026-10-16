@@ -1,141 +1,122 @@
-# Prompt de Estudio: Supervisor General de Andamios
-**Instrucción lista para pegar en cualquier IA (Claude, ChatGPT, Gemini, etc.)**
+# Estudiar supervisión de andamios
 
----
+Plantilla genérica · revisada el 16 de octubre de 2026.
 
-## INSTRUCCIÓN PARA LA IA
+Material de estudio: no es un procedimiento de montaje, una autorización de trabajo ni una acreditación de competencia.
 
-Actúa como instructor técnico especializado en andamios industriales. Tu tarea es prepararme para una entrevista de trabajo como **Supervisor General de Andamios** en una operación minera activa de gran escala (mina de oro, República Dominicana, estándares internacionales OSHA/ISO/OHSAS).
+## Prompt
 
-**Mi perfil:** Ingeniero Industrial con 15+ años en minería industrial. Supervisión de equipos técnicos probada. Diseño de SOPs, matrices de competencia e informes a gerencia son mi trabajo diario. **Gap crítico:** cero experiencia directa en montaje, uso e inspección de andamios. Necesito construir base técnica sólida y vocabulario específico antes de la entrevista.
+```text
+Actúa como tutor de estudio sobre supervisión de andamios.
+Objetivo: [objetivo de aprendizaje o entrevista].
+Conocimientos previos: [perfil genérico, sin empresa ni datos personales].
+Jurisdicción y reglas aplicables: [país, sector, estándar del sitio].
+Fuentes: [normativa oficial vigente, manual del fabricante y procedimientos autorizados].
 
-**Formato de respuesta que necesito:** Para cada bloque temático enumerado abajo, entrega:
-1. Explicación conceptual clara (lenguaje técnico, nivel ingeniero)
-2. Términos clave en español e inglés (los usaré en la entrevista)
-3. Reglas críticas o números que debo memorizar
-4. Errores comunes que un supervisor debe conocer y evitar
-5. Al menos una pregunta de entrevista probable sobre ese bloque, con respuesta modelo
+Trabaja estos temas, uno por uno:
+1. Alcance normativo; persona competente y persona calificada.
+2. Tipos de andamios y diferencias frente a plataformas elevadoras.
+3. Componentes y vocabulario técnico en español e inglés.
+4. Capacidad, diseño, cargas y condiciones de apoyo.
+5. Inspección, registros y sistema de etiquetado del sitio.
+6. Planificación del montaje y desmontaje según un procedimiento aprobado.
+7. Protección contra caídas y planificación de rescate.
+8. Riesgos eléctricos y condiciones ambientales.
+9. Coordinación de trabajos, formación y evidencia de competencia.
+10. Preguntas de entrevista, liderazgo entre supervisores y límites del propio conocimiento.
 
-Responde en **español**, usa términos técnicos en inglés donde corresponda. Sé directo y denso — no necesito introducción ni motivación, solo contenido técnico accionable.
+En cada tema explica conceptos, riesgos, preguntas de comprensión y fuentes.
+Para toda cifra o requisito: cita el apartado exacto, la edición o fecha y las
+condiciones de aplicación. Distingue norma, fabricante y regla interna.
+Si no puedes verificar un requisito, márcalo como pendiente; no lo inventes.
+No conviertas ejemplos en instrucciones para intervenir un andamio real.
+No sugieras experiencia o acreditaciones que el candidato no posee.
+En entrevista, practica también cómo influir en otros supervisores, ganar
+credibilidad, resolver desacuerdos y dar seguimiento sin desautorizar al equipo.
+Haz una pregunta a la vez. Espera mi respuesta y evalúa claridad, acciones
+concretas, criterio de seguridad y honestidad. Ayúdame a mejorarla sin inventar
+logros. Usa el banco de preguntas y la estructura de respuesta de esta guía.
+Espera «siguiente», «repite» o «preguntas» antes de avanzar.
+```
 
-Estudia bloque por bloque. Cuando yo diga **"siguiente"**, avanza al bloque siguiente. Cuando yo diga **"repite"**, desarrolla el mismo bloque con más profundidad y ejemplos. Cuando yo diga **"preguntas"**, dame 5 preguntas de entrevista sobre el bloque actual con respuestas modelo.
+## Entrevista: influir y ganarse el respeto de otros supervisores
 
----
+### Pregunta principal
 
-## BLOQUES DE ESTUDIO (en orden de prioridad)
+**Como supervisor general, ¿cómo influirías en los demás supervisores y cómo te ganarías su respeto?**
 
-### BLOQUE 1 — Regulación base: OSHA 1926 Subparte L (Scaffolding)
-- Alcance y aplicación de OSHA 1926 Subpart L en construcción industrial
-- Definición legal de **Competent Person** para andamios: quién es, qué debe saber, qué autoridad tiene
-- Definición de **Qualified Person** (diseñador estructural) vs. Competent Person — diferencia clave
-- Obligaciones del supervisor como Competent Person: inspección, autorización de uso, suspensión de trabajos
-- Capacidades mínimas requeridas por OSHA para erigir, usar y desmantelar andamios
-- Frecuencia y gatillantes de inspección obligatoria: antes de cada turno, post-incidente, post-modificación, **post-evento climático severo (viento, lluvia intensa, granizo)**
-- Referencias complementarias: **ANSI/SSFI A10.8** (Scaffolding Safety Requirements) — usada en operaciones que exigen estándares más allá de OSHA básico
+La pregunta permite mostrar cómo convertirías tu responsabilidad en coordinación y resultados. Una respuesta sólida explica conductas observables: escuchar, acordar criterios, actuar con coherencia, resolver obstáculos y dar seguimiento. La autoridad del puesto ayuda a decidir; la credibilidad se construye con la forma de ejercerla.
 
----
+### Respuesta modelo de aproximadamente un minuto
 
-### BLOQUE 2 — Tipos de andamios: clasificación, usos y restricciones
-- **Andamios soportados (supported scaffolds):**
-  - Frame scaffold (marco): el más común, usos, límites de altura
-  - Systems scaffold (andamio modular): Ringlock, Kwikstage, Cuplock — diferencias y ventajas
-  - Tube & Clamp scaffold: flexibilidad, cuándo se usa, complejidad de inspección
-  - Mobile/Rolling scaffold: reglas de desplazamiento, bloqueo de ruedas, ratio altura/base
-- **Andamios colgantes (suspended scaffolds):**
-  - Two-point suspension (swing stage): cuándo y cómo
-  - Multi-point suspension: casos de uso en plantas industriales
-- Criterios de selección del tipo correcto según el trabajo y la estructura de soporte
-- Andamios prohibidos o restringidos en zonas específicas de planta
-- **Distinción importante:** andamios vs. plataformas de trabajo elevadas (MEWPs/EWPs: scissor lifts, boom lifts) — son equipos diferentes, normativa diferente (ANSI/SAIA A92), no confundir en entrevista
+> Me ganaría su respeto con coherencia, preparación y cumplimiento. Primero escucharía a cada supervisor para conocer su experiencia, los problemas de su frente y lo que necesita de mí. Con ellos dejaría claras las prioridades, las responsabilidades y los criterios de seguridad y calidad que debemos cumplir.
+>
+> Mi trabajo sería facilitar que cada supervisor dirija bien a su equipo: resolver obstáculos, coordinar recursos y tomar decisiones oportunas. Les daría espacio para aportar y reconocería el trabajo bien hecho. Cuando hubiera una diferencia, escucharía los argumentos y la resolveríamos con hechos y los procedimientos aplicables; si corresponde a mi autoridad decidir, asumiría esa decisión y explicaría el motivo.
+>
+> Corregiría con respeto, normalmente en privado, salvo que haya que intervenir de inmediato para controlar un riesgo. También haría seguimiento a los compromisos, incluidos los míos. Quiero que vean a una persona justa, que sabe escuchar y responde por lo que promete. Así buscaría ganar su confianza e influir en los resultados.
 
----
+Es una propuesta de actuación, no una declaración de experiencia ya adquirida. Adapta las palabras a tu manera de hablar.
 
-### BLOQUE 3 — Componentes, nomenclatura y terminología
-- Componentes principales: **standards** (postes verticales), **ledgers** (horizontales longitudinales), **transoms** (horizontales transversales), **braces** (diagonales), **base plates**, **mudsills** (soleras de base), **guardrails**, **mid-rails**, **toeboards**
-- **Planking/decking:** tipos permitidos (madera maciza, LVL, plancha metálica, compuesta), requisitos de extensión mínima y máxima sobre el soporte
-- **Couplers/clamps:** tipos (right-angle, swivel, putlog) y diferencias de carga
-- Vocabulario de levantamiento: **lift** (nivel), **bay** (módulo horizontal), **working platform** (plataforma de trabajo)
-- Qué datos debe contener una **scaffold tag** (etiqueta de andamio)
+### Cómo recordarla sin memorizar un discurso
 
----
+Usa cinco verbos: **escuchar → acordar → apoyar → decidir → cumplir**.
 
-### BLOQUE 4 — Cálculo de cargas y capacidad estructural
-- Tres categorías de carga OSHA: **light duty** (25 psf / 122 kg/m²), **medium duty** (50 psf / 244 kg/m²), **heavy duty** (75 psf / 366 kg/m²)
-- **Factor de seguridad mínimo:** 4:1 para componentes de andamio; 6:1 para cuerdas de suspensión
-- Tipos de carga: muerta (dead load), viva (live load), viento (wind load), dinámica (impacto de herramientas)
-- Cómo estimar carga total de una plataforma: peso de trabajadores + herramientas + materiales + estructura
-- Cuándo se requiere diseño por **Qualified Person** (andamios no estándar, alturas extremas, cargas inusuales)
-- Fundaciones: capacidad de suelo, uso de mudsills, situaciones donde el suelo no soporta la carga
-- Regla de ratio altura/base para andamios móviles: típicamente 4:1 (4 de altura máx. por 1 de base) — ajustar según fabricante
+| Acción | Qué dirías de forma concreta |
+|---|---|
+| Escuchar | «Conocería sus problemas y aprovecharía su experiencia». |
+| Acordar | «Dejaría claras las prioridades, responsabilidades y reglas aplicables». |
+| Apoyar | «Resolvería obstáculos y coordinaría los recursos necesarios». |
+| Decidir | «Resolvería diferencias con hechos, respeto y dentro de mi autoridad». |
+| Cumplir | «Daría seguimiento y cumpliría también mis compromisos». |
 
----
+Si necesitas una respuesta más corta: «Me ganaría el respeto escuchando a los supervisores, estableciendo criterios claros y cumpliendo lo que prometo. Les ayudaría a resolver problemas y les exigiría con justicia. Frente a una diferencia, usaría hechos y procedimientos para decidir, sin desautorizar innecesariamente a nadie».
 
-### BLOQUE 5 — Sistema de inspección y etiquetado (Scaffold Tagging)
-- Sistema de tres colores estándar en minería:
-  - **Verde (Green Tag):** andamio inspeccionado, apto para uso sin restricciones
-  - **Amarillo (Yellow Tag):** uso restringido — especificar condición o limitación en la etiqueta
-  - **Rojo (Red Tag):** fuera de servicio — prohibido el acceso
-- Qué debe contener cada etiqueta: fecha, número de andamio, nombre del Competent Person, limitaciones, próxima inspección
-- Proceso de levantamiento de una etiqueta roja: quién puede hacerlo, qué debe verificarse antes
-- Registro documental: log de inspecciones, firmas, seguimiento de deficiencias
-- Condiciones que generan etiqueta roja automáticamente: planking faltante, guardrail incompleto, base inestable, daño estructural visible, condición climática (viento >38 km/h es referencia OSHA, ajustar al estándar del sitio)
+## Preguntas de seguimiento
 
----
+### ¿Y si uno de los supervisores tiene más experiencia técnica que tú?
 
-### BLOQUE 6 — Secuencia de erección y desmantelamiento
-- Principio fundamental: **erección de abajo hacia arriba; desmantelamiento de arriba hacia abajo**
-- Pasos de erección: inspección de zona, preparación de base/fundación, colocación de mudsills y base plates, levantamiento de standards, instalación de ledgers y transoms, instalación de bracing, planking, guardrails y toeboards, instalación de acceso, inspección final y etiquetado
-- Pasos de desmantelamiento: retirar materiales y herramientas antes de iniciar, retirar planking, luego guardrails, luego componentes estructurales nivel por nivel
-- **Regla de un tercio:** durante el desmantelamiento, nunca retirar más de un tercio de los miembros de un nivel antes de asegurar el nivel inferior
-- Competencias mínimas del equipo de erección: qué debe demostrar cada miembro
-- **Ties/anchors (amarres a la estructura):** cada 26 pies vertical y 30 pies horizontal como referencia OSHA para frame scaffold; siempre anclar a estructura sólida, no a cañerías o equipos de proceso
-- **Riesgos específicos en planta de proceso:** andamios cerca de líneas de proceso con fluidos presurizados (ácido, slurry, cianuro) — zona de exclusión, comunicación con operaciones antes de iniciar erección
+> Aprovecharía esa experiencia y le pediría su análisis. No fingiría saber lo que no sé. Mi responsabilidad sería integrar ese criterio con las necesidades de los otros frentes, verificar lo que corresponda con las personas competentes y asegurar que la decisión cumpla las reglas del sitio. Reconocer el conocimiento de otro no me impide dirigir ni asumir mi responsabilidad.
 
----
+### ¿Qué harías si un supervisor no está de acuerdo contigo?
 
-### BLOQUE 7 — Protección contra caídas (Fall Protection)
-- Umbral OSHA construcción: protección obligatoria a **10 pies (3.05 m)** sobre nivel inferior
-- Sistemas aceptados en andamios: **guardrail system** (pasamanos superior + mid-rail + toeboard), **personal fall arrest system (PFAS)**, redes de seguridad
-- Especificaciones de guardrail: altura 38–45 pulgadas (97–114 cm) desde plataforma, resistencia mínima 200 lbs (91 kg) en dirección horizontal
-- **Cuándo usar PFAS además del guardrail:** andamios de un solo punto, situaciones de desmantelamiento donde el guardrail ya fue retirado, trabajos de suspensión
-- Puntos de anclaje en andamios: regla de 5,000 lbs (2,268 kg) por trabajador o equivalente certificado
-- Peligros de caída específicos de andamios: gap entre plataforma y estructura, apertura no protegida en plataforma, plataforma resbaladiza (lluvia, hielo, aceite)
+> Primero distinguiría una objeción técnica de un problema de coordinación. Escucharía sus razones y revisaría los hechos y el procedimiento aplicable. Si su argumento es correcto, ajustaría mi decisión. Si no lo es, explicaría el criterio, dejaría claro el acuerdo y haría seguimiento. Si la diferencia supera mi autoridad o requiere otra competencia técnica, la escalaría por el canal correspondiente.
 
----
+### ¿Cómo corregirías a un supervisor sin perder su colaboración?
 
-### BLOQUE 8 — Peligros eléctricos y distancias de seguridad
-- Distancias mínimas OSHA a líneas eléctricas aéreas (energizadas):
-  - Hasta 300V: **3 pies (0.9 m)**
-  - 300V a 50 kV: **10 pies (3.05 m)**
-  - Más de 50 kV: 10 pies + 4 pulgadas por cada 10 kV adicionales
-- Qué hacer cuando no se pueden mantener distancias: solicitar desenergización, barreras físicas, coordinación con eléctrica
-- Andamios metálicos como conductores: prohibición de usar como tierra o soporte de cables temporales
-- Riesgo de arco eléctrico (arc flash) en planta de proceso: coordinación con el área de electricidad antes de instalar andamio en zonas de MCC, tableros o subestaciones
+> Hablaría de una conducta o un resultado concreto, no de su personalidad. Explicaría qué se esperaba, qué ocurrió y qué debemos corregir. Escucharía su explicación, acordaríamos la acción, el responsable y el plazo, y después verificaría el cumplimiento. Evitaría humillarlo frente a su equipo. Si hay un riesgo que exige intervención inmediata, actuaría primero conforme al procedimiento del sitio.
 
----
+### ¿Cómo manejarías la presión por terminar y las condiciones de seguridad?
 
-### BLOQUE 9 — Planificación, SOPs y tarjetas de capacitación
-- Cómo estructurar un **Plan de Acción Semanal de Andamios** con operaciones y construcción: formato, datos mínimos, quién aprueba
-- Componentes de un SOP de andamios: alcance, responsables, EPP requerido, pasos de erección, criterios de inspección, sistema de etiquetado, desmantelamiento, almacenamiento
-- **Tarjeta de mando de capacitación (competency card):** qué habilidades incluir para el rol de armador, para el rol de usuario, para el supervisor — diferencia entre conocimiento teórico y demostración práctica
-- Cómo medir el desempeño del equipo de andamios: KPIs relevantes (andamios inspeccionados vs. total activos, etiquetas rojas levantadas en tiempo, horas de formación, incidentes relacionados a andamios)
-- Cómo calcular costos básicos de una estructura de andamio: materiales (costo por módulo/alquiler), mano de obra (horas de erección por nivel y tipo), herramientas y EPP
+> Aclararía qué condición impide continuar y qué necesitamos resolver. No ofrecería una excepción que no tengo autoridad para aprobar. Coordinaría las medidas, recursos o cambios de secuencia permitidos por los procedimientos, informaría el impacto en el plazo y escalaría lo que corresponda. Mi aporte sería buscar una solución viable y segura, no limitarme a decir sí o no.
 
----
+### Dame un ejemplo real de una ocasión en que influiste en otros
 
-### BLOQUE 10 — Preparación final: preguntas de entrevista de alto impacto
-Genera las siguientes preguntas con respuestas modelo completas:
-1. "¿Qué haría usted si llega a un andamio en uso y nota que le falta un tramo del guardrail?"
-2. "¿Qué diferencia hay entre Competent Person y Qualified Person en andamios?"
-3. "¿Cómo planificaría la primera semana como supervisor del equipo de andamios si viene de un área diferente?"
-4. "¿Qué factores considera antes de aprobar el uso de un andamio recién erigido?"
-5. "¿Cómo manejaría un operador que entra a un andamio con etiqueta roja porque 'solo va a estar un momento'?"
-6. "¿Qué haría si el suelo donde se va a instalar un andamio es blando o inestable?"
-7. "Un técnico de su equipo le dice que siempre han usado ese tipo de andamio sin guardrail en esa zona. ¿Cómo responde?"
-9. "¿Qué plan tendría para rescatar a un trabajador lesionado en una plataforma de andamio a 8 metros de altura?"
+Esta pregunta requiere evidencia de tu propia experiencia. No presentes el modelo anterior como si ya hubiera ocurrido.
 
----
+Responde con **situación → responsabilidad → acciones → resultado**:
 
-## NOTA PARA LA IA
+1. **Situación:** «En [un caso real de coordinación, formación o trabajo] ocurrió [problema concreto]».
+2. **Responsabilidad:** «Mi responsabilidad era [tu papel real, sin aumentar el cargo]».
+3. **Acciones:** «Escuché [a quién], aclaré [qué], coordiné [qué] e hice seguimiento mediante [cómo]».
+4. **Resultado:** «El resultado que puedo demostrar fue [hecho observable]. Aprendí [aprendizaje]».
 
-No avances a otro bloque sin que yo lo indique. Espera mi comando ("siguiente", "repite", "preguntas", o número de bloque específico). Si en algún momento pregunto algo fuera del temario pero relacionado a andamios o supervisión, responde y luego regresa al bloque actual.
+Si el ejemplo no es de andamios, dilo: «Mi ejemplo es de otro contexto, pero muestra cómo coordino e influyo». No inventes porcentajes, equipos a tu cargo ni logros. Si todavía no tienes un ejemplo comparable, reconoce ese límite y explica qué harías, diferenciando claramente experiencia y propuesta.
+
+## Práctica breve
+
+1. Responde la pregunta principal en voz alta durante aproximadamente un minuto, usando los cinco verbos como guía.
+2. Revisa si mencionaste acciones concretas o solo palabras como «liderazgo», «respeto» y «comunicación».
+3. Añade un ejemplo verdadero cuando te lo pidan; explica tu contribución y su resultado.
+4. Practica una objeción: «Ese supervisor lleva veinte años aquí y no está de acuerdo». Escucha, verifica, decide o escala y da seguimiento.
+
+Evita basar la respuesta solo en «soy el jefe y deben obedecerme», prometer que todos estarán de acuerdo o confundir influencia con caerle bien a todo el mundo. La idea central es ejercer la autoridad con criterio, respeto y responsabilidad.
+
+## Referencia de consulta
+
+[OSHA 1926.451 — requisitos generales de andamios](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.451).
+
+La aplicabilidad depende de la jurisdicción, el trabajo y las reglas del sitio. Esta referencia no convierte el material en una instrucción operativa validada.
+
+## Revisión editorial
+
+Se sustituyó el perfil personal por campos genéricos y se retiraron cifras sin contexto o fuente específica. La versión anterior se conservó en el respaldo privado de la auditoría.

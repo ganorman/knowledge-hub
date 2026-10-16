@@ -1,5 +1,8 @@
 # Micro-SaaS de plantillas para freelancers
 
+> Ejemplo del catálogo inicial, pendiente de confirmar. No acredita una meta, un progreso o un proyecto personal vigente.
+
+
 > Categoría: Ideas · Negocios · #saas #freelance #negocio
 
 ## Idea

@@ -1,5 +1,8 @@
 # Blog técnico personal
 
+> Ejemplo del catálogo inicial, pendiente de confirmar. No acredita una meta, un progreso o un proyecto personal vigente.
+
+
 > Categoría: Proyectos · En pausa · #blog #escritura
 
 ## Estado

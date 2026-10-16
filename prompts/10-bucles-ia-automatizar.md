@@ -1,6 +1,8 @@
 # 10 bucles de IA para automatizar tu trabajo
 ### (con prompts para copiar)
 
+> Revisión editorial · 16-oct-2026: la autoevaluación de una IA no demuestra exactitud, exhaustividad ni anonimización completa. Conservar evidencia y revisión humana según el riesgo.
+>
 > Categoría: Prompts IA · Automatización · #bucles #automatización #prompts #productividad
 >
 > Un **bucle** no es siempre la respuesta. Si la tarea es pequeña y la puedes
